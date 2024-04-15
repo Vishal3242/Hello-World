@@ -39,3 +39,6 @@ puts "Hello, World!"
 //R
 
 print("Hello, World!")
+
+// Devanagari script:
+print("नमस्ते दुनिया!")
