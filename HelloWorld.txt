@@ -36,3 +36,12 @@ console.log("Hello, World!");
 
 puts "Hello, World!"
 
+//GO 
+package main
+
+import "fmt"
+
+func main() {
+    fmt.Println("Hello, World!")
+}
+
