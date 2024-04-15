@@ -36,3 +36,6 @@ console.log("Hello, World!");
 
 puts "Hello, World!"
 
+//R
+
+print("Hello, World!")
