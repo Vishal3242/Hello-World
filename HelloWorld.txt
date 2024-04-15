@@ -32,4 +32,7 @@ int main() {
 
 console.log("Hello, World!");
 
+//Ruby
+
+puts "Hello, World!"
 
